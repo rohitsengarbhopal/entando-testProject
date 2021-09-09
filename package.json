@@ -1,0 +1,28 @@
+{
+  "name": "new-vision-poc",
+  "version": "0.0.0",
+  "description": "Description for NewVisionPOC",
+  "private": true,
+  "license": "UNLICENSED",
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "devDependencies": {
+    "@openapitools/openapi-generator-cli": "1.0.13-4.3.1",
+    "generator-jhipster": "6.10.5",
+    "generator-jhipster-apiutils": "0.8.1",
+    "generator-jhipster-entando": "file:../.entando/ent/v6.3.2/cli/v6.3.2/lib/generator-jhipster-entando/v6.3.2",
+    "husky": "4.2.5",
+    "lint-staged": "8.2.1",
+    "prettier": "2.1.2"
+  },
+  "engines": {
+    "node": ">=12.16.1"
+  },
+  "scripts": {
+    "populate-bundle": "bash ./buildBundle.sh",
+    "build-all": "bash ./buildBundle.sh -d",
+    "keycloak": "docker-compose -f src/main/docker/keycloak.yml up",
+    "prettier:format": "prettier --write \"{,src/**/}*.{md,json,yml}\""
+  }
+}
