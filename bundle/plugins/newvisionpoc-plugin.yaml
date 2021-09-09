@@ -1,0 +1,6 @@
+image: NewVisionSoftwares/new-vision-poc:0.0.1-SNAPSHOT
+dbms: postgresql
+healthCheckPath: "/management/health"
+roles:
+  - "NewVisionPOC-admin"
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here

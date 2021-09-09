@@ -1,0 +1,15 @@
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/config/timezone/HibernateTimeZoneIT.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/repository/timezone/DateTimeWrapper.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/ArchTest.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/web/rest/errors/ExceptionTranslatorTestController.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/repository/timezone/DateTimeWrapperRepository.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/web/rest/errors/ExceptionTranslatorIT.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/security/oauth2/AudienceValidatorTest.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/cucumber/CucumberIT.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/config/WebConfigurerTestController.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/web/rest/TestUtil.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/cucumber/stepdefs/StepDefs.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/security/SecurityUtilsUnitTest.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/config/WebConfigurerTest.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/cucumber/CucumberContextConfiguration.java
+/home/rohits/testProject/src/test/java/com/newvisionsoftware/poc/entandoapp/config/TestSecurityConfiguration.java

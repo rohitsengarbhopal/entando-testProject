@@ -1,0 +1,10 @@
+code: newvisionpoc-bundle
+description: This is the NewVisionPOC bundle
+
+components:
+  plugins:
+    - plugins/newvisionpoc-plugin.yaml
+
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
